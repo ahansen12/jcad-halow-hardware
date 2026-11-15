@@ -1,0 +1,1 @@
+(sym_lib_table (lib (name "JCAD") (type "KiCad") (uri "${KIPRJMOD}/JCAD.kicad_sym") (options "") (descr "Prototype module interface symbols")))
